@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  display: block;
+  width: 100%;
+  margin-left: 40%;
+  margin-right: 10%;
+  border: 1px solid greenyellow;
+}
+div{
+  display: inline-block;
+  width: 50%;
+  text-align: center;
+}
