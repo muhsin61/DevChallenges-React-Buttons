@@ -21,6 +21,7 @@ function App() {
       <div><p>&lt;Buttons color="danger" /&gt;</p><Buttons color="danger"></Buttons></div>
       <div><p>&lt;Buttons color="danger" startIcon="build" text="hover me" /&gt;</p><Buttons color="danger" startIcon="build" text="hover me" ></Buttons></div>
       <div><p>&lt;Buttons endIcon="anchor" /&gt;</p><Buttons endIcon="anchor">naber</Buttons></div>
+      <Buttons endIcon="anchor" disableShadow>naber</Buttons><Buttons endIcon="anchor" >naber</Buttons>
       <p>muhsin61@DevChallenges.io</p>
     </div>
   );
